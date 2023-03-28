@@ -1,4 +1,4 @@
-package theLordOfJava;
+package main.typesOfCreatures;
 
 interface ICreature {
     String getNickname();

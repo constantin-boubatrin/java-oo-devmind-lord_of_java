@@ -1,4 +1,4 @@
-package theLordOfJava;
+package main;
 
 import java.util.Random;
 

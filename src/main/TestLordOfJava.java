@@ -1,4 +1,8 @@
-package theLordOfJava;
+package main;
+
+import main.typesOfCreatures.Dragon;
+import main.typesOfCreatures.Mumakil;
+import main.typesOfCreatures.Warg;
 
 public class TestLordOfJava {
 

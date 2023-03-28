@@ -1,4 +1,6 @@
-package theLordOfJava;
+package main;
+
+import main.typesOfCreatures.Creature;
 
 import java.util.*;
 

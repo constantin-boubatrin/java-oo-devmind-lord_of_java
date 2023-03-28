@@ -1,4 +1,9 @@
-package theLordOfJava;
+package main;
+
+import main.typesOfCreatures.Creature;
+import main.typesOfCreatures.Dragon;
+import main.typesOfCreatures.Mumakil;
+import main.typesOfCreatures.Warg;
 
 import java.util.ArrayList;
 

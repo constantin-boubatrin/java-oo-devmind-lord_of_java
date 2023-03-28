@@ -1,4 +1,4 @@
-package theLordOfJava;
+package main;
 
 /** The game ecosystem-specific class that contains the technical details of the game. */
 

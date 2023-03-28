@@ -1,4 +1,4 @@
-package theLordOfJava;
+package main.typesOfCreatures;
 
 /** The 'Abilities' class represents the essence of every fabulous creature in the Java realm,
   * it characterizes the strength of each individual. The higher a character's personal skill

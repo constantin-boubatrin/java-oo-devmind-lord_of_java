@@ -1,4 +1,6 @@
-package theLordOfJava;
+package main.typesOfCreatures;
+
+import main.Utils;
 
 import java.util.ArrayList;
 import java.util.List;

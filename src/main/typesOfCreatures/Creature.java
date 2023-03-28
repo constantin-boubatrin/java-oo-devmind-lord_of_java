@@ -1,4 +1,4 @@
-package theLordOfJava;
+package main.typesOfCreatures;
 
 /** The abstract class that details the general specifications of a supernatural creature */
 
